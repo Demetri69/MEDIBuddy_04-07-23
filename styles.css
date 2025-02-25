@@ -181,6 +181,24 @@ nav {
   color: var(--primary-color);
 }
 
+.hospital{
+  background: #209677;
+  width: 100%;
+  padding: 100px 0px;
+}
+.title h2{
+  color: white;
+  font-size: 75px;
+  width: 1130px;
+  margin: 30px  auto;
+  text-align: center;
+}
+.box{
+  display: flex;
+}
+
+
+
 @media (width < 900px) {
   .nav__links {
     display: none;
